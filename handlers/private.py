@@ -19,10 +19,10 @@ async def start(_, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "🔊 Asistan", url="https://t.me/AlsancakAsisstant"
+                        "🔊 Asistan", url="https://t.me/Legend_Asistan"
                     ),
                     InlineKeyboardButton(
-                        "Support 💬", url="https://t.me/AksancakAil3si"
+                        "Support 💬", url="https://t.me/sohbetcenneti"
                     )
                 ],
                 [
@@ -30,7 +30,7 @@ async def start(_, message: Message):
                         "🧩 Əmrlər" , callback_data= "cbbilgi"
                     ),
                     InlineKeyboardButton(
-                        "Rəsmi Kanal 🇦🇿", url=f"https://t.me/AlsancakAil3si"
+                        "Rəsmi Kanal 🇦🇿", url=f"https://t.me/sohbetcenneti"
                     )
                 ]
                 
